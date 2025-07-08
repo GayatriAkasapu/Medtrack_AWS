@@ -143,7 +143,4 @@ Feel free to fork this repo and submit pull requests. For major changes, please 
 
 ```
 
----
 
-Let me know if you want this converted into a PDF, include screenshots, or if your GitHub repo URL has changed.
-```
